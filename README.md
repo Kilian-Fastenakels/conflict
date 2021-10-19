@@ -1,3 +1,3 @@
 # conflict
 
-Hello universe !
+Hello World
